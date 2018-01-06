@@ -4,7 +4,9 @@ You do not really need to buy a $50 EEPROM programmer when you can make one your
 NOTE: PIN CONNECTIONS ARE MENTIONED IN THE CODE.
 
 memWritedata() \\Writing to memory with custom array size and custom memory location.
+
 memShowcontents() \\display all the contents within selected range default is 256 locations starting from 0 but can be increased.
+
 showData() \\display data that is about to be written.
 
 Here is a serial com port dump from my display EEPROM with signed and unsigned binary numbers encoded as 7 segment display characters:
