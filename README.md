@@ -9,4 +9,4 @@ showData() \\display data that is about to be written.
 
 Here is a serial com port dump from my display EEPROM with signed and unsigned binary numbers encoded as 7 segment display characters:
 
-[[https://addzlabs.files.wordpress.com/2018/01/untitled2.jpg?w=680|alt=octocat]]
+![alt text](https://addzlabs.files.wordpress.com/2018/01/untitled2.jpg?w=680)
